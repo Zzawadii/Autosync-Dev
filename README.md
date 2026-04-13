@@ -68,7 +68,3 @@ autosync start --remote backup           # Set remote name
 Zawadii — Software developer focused on building practical and impactful tools.
 
 ## 📄 License
-
-MIT
-google
-postman
