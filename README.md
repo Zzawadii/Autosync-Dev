@@ -70,6 +70,3 @@ Zawadii — Software developer focused on building practical and impactful tools
 ## 📄 License
 
 MIT
-
-└── README.md
-```
