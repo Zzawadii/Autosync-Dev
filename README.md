@@ -57,3 +57,18 @@ autosync start --remote backup           # Set remote name
 4. The commit is pushed to your backup remote repository
 5. On restart, it checks for uncommitted changes and backs them up
 
+## 💡 Tips
+
+- Use a separate backup repository to keep your main history clean
+- Adjust the inactivity interval based on your workflow
+- The tool ignores `.git` and `node_modules` directories
+  
+## 👤 Author
+
+Zawadii — Software developer focused on building practical and impactful tools.
+
+## 📄 License
+
+MIT
+
+
