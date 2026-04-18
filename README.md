@@ -62,4 +62,13 @@ autosync start --remote backup           # Set remote name
 - Use a separate backup repository to keep your main history clean
 - Adjust the inactivity interval based on your workflow
 - The tool ignores `.git` and `node_modules` directories
+  
+## 👤 Author
+
+Zawadii — Software developer focused on building practical and impactful tools.
+
+## 📄 License
+
+MIT
+
 
